@@ -1,3 +1,5 @@
+//programm to check minimum number in an array
+
 #include <stdio.h>
 #include <limits.h>
 
