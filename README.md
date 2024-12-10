@@ -1,4 +1,4 @@
-# Hi, I'm [Priyesh Singh] 👋
+# Hi, I'm Priyesh Singh 👋
 
 🎓 **About Me**  
 I am a **Computer Science student** passionate about learning and building innovative solutions through programming and technology. Currently, I am focused on enhancing my skills and gaining hands-on experience in software development.  
