@@ -1,4 +1,4 @@
-// star pattern
+//Reverse star pattern
 
 #include <stdio.h>
 
